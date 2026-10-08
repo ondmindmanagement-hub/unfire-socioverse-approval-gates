@@ -1,0 +1,342 @@
+[
+  {
+    "arm": "ungated",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.09,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.18,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 11
+  },
+  {
+    "arm": "static",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.2927,
+      "mean_latency": 0.09,
+      "review_expirations": 0,
+      "safe_task_completion": 0.7073,
+      "standard_safe_completion": 0.7544,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0645,
+      "urgent_safe_completion": 0.6
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 11
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 2,
+    "metrics": {
+      "false_denial_rate": 0.0488,
+      "mean_latency": 0.73,
+      "review_expirations": 4,
+      "safe_task_completion": 0.9512,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 0.84
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 11
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.09,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 11
+  },
+  {
+    "arm": "ungated",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.07,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.21,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 29
+  },
+  {
+    "arm": "static",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.3544,
+      "mean_latency": 0.07,
+      "review_expirations": 0,
+      "safe_task_completion": 0.6456,
+      "standard_safe_completion": 0.6111,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.1053,
+      "urgent_safe_completion": 0.72
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 29
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 2,
+    "metrics": {
+      "false_denial_rate": 0.0886,
+      "mean_latency": 1.01,
+      "review_expirations": 8,
+      "safe_task_completion": 0.9114,
+      "standard_safe_completion": 0.9259,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 0.88
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 29
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.07,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 29
+  },
+  {
+    "arm": "ungated",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.09,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.2,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 47
+  },
+  {
+    "arm": "static",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.275,
+      "mean_latency": 0.09,
+      "review_expirations": 0,
+      "safe_task_completion": 0.725,
+      "standard_safe_completion": 0.7292,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0794,
+      "urgent_safe_completion": 0.7188
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 47
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 2,
+    "metrics": {
+      "false_denial_rate": 0.0625,
+      "mean_latency": 0.92,
+      "review_expirations": 9,
+      "safe_task_completion": 0.9375,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 0.8438
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 47
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.1,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 47
+  },
+  {
+    "arm": "ungated",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.12,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.12,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 83
+  },
+  {
+    "arm": "static",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.3068,
+      "mean_latency": 0.12,
+      "review_expirations": 0,
+      "safe_task_completion": 0.6932,
+      "standard_safe_completion": 0.6613,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0615,
+      "urgent_safe_completion": 0.7692
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 83
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 2,
+    "metrics": {
+      "false_denial_rate": 0.0227,
+      "mean_latency": 0.83,
+      "review_expirations": 2,
+      "safe_task_completion": 0.9773,
+      "standard_safe_completion": 0.9839,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 0.9615
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 83
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.12,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 83
+  },
+  {
+    "arm": "ungated",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.13,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.24,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 101
+  },
+  {
+    "arm": "static",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.3421,
+      "mean_latency": 0.13,
+      "review_expirations": 0,
+      "safe_task_completion": 0.6579,
+      "standard_safe_completion": 0.7021,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.1525,
+      "urgent_safe_completion": 0.5862
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 101
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 2,
+    "metrics": {
+      "false_denial_rate": 0.0789,
+      "mean_latency": 1.04,
+      "review_expirations": 7,
+      "safe_task_completion": 0.9211,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 0.7931
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 101
+  },
+  {
+    "arm": "capacity_review",
+    "capacity": 8,
+    "metrics": {
+      "false_denial_rate": 0.0,
+      "mean_latency": 0.13,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "standard_safe_completion": 1.0,
+      "terminal_count": 100,
+      "unsafe_action_rate": 0.0,
+      "urgent_safe_completion": 1.0
+    },
+    "n_steps": 18,
+    "n_terminal": 100,
+    "seed": 101
+  }
+]

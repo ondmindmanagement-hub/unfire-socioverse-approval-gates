@@ -1,0 +1,16 @@
+{
+  "study_id": "unfire_approval_gates",
+  "personas": [],
+  "interaction": {
+    "kind": "none",
+    "edges": null,
+    "adjacency_ref": null
+  },
+  "propagation": "contagion",
+  "provider_ref": "unfire_approval.pop",
+  "provider_args": {
+    "n_agents": 100,
+    "n_steps": 12
+  },
+  "materialized_count": null
+}

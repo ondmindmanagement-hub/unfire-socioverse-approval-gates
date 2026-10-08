@@ -1,0 +1,60 @@
+{
+  "study_id": "unfire_approval_gates",
+  "title": "Human Approval Gates under Bounded Synthetic Reviewer Capacity",
+  "research_question": "How do review policies trade unsafe task execution against false denial and delay?",
+  "hypothesis": "Scripted capacity-limited review lowers unsafe synthetic execution, but may expire safe work when overloaded.",
+  "title_i18n": {},
+  "research_question_i18n": {},
+  "hypothesis_i18n": {},
+  "study_type": "longitudinal",
+  "n_steps": 18,
+  "seed": 11,
+  "time_unit": "abstract",
+  "step_meaning": "",
+  "key_attributes": [],
+  "metrics": [
+    "unsafe_action_rate",
+    "safe_task_completion",
+    "false_denial_rate",
+    "review_expirations",
+    "terminal_count",
+    "mean_latency",
+    "urgent_safe_completion",
+    "standard_safe_completion"
+  ],
+  "metric_descriptions": {},
+  "display_metrics": [],
+  "run_note": {},
+  "environment_ref": "environment/environment.json",
+  "population_ref": "population/population.json",
+  "simulation_ref": "simulation/simulation.json",
+  "resources_ref": "resources.json",
+  "domain": "multi-agent-governance",
+  "tags": [
+    "human-ai",
+    "approval",
+    "synthetic",
+    "reproducible"
+  ],
+  "legacy_simulator": "from_scratch",
+  "provider_refs": [
+    "unfire_approval.pop",
+    "unfire_approval.env",
+    "unfire_approval.decision",
+    "unfire_approval.collector"
+  ],
+  "adjustable_params": [
+    "reviewer_capacity",
+    "n_agents",
+    "arm",
+    "seed"
+  ],
+  "status": "demo-only",
+  "maintainer": "",
+  "demonstrates": [],
+  "teaches": "",
+  "reference": false,
+  "requires": null,
+  "rerunnable": true,
+  "created_by": "sv-init"
+}

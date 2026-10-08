@@ -1,0 +1,17 @@
+{
+  "study_id": "unfire_approval_gates",
+  "n_steps": 18,
+  "seed": 11,
+  "warm_start": null,
+  "decision_ref": "unfire_approval.decision",
+  "decision_args": {
+    "arm": "capacity_review",
+    "reviewer_capacity": 8
+  },
+  "collector_ref": "unfire_approval.collector",
+  "collector_args": {},
+  "interaction_rounds": 1,
+  "engine_args": {},
+  "store_ref": "duckdb",
+  "store_args": {}
+}

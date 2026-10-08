@@ -1,0 +1,1501 @@
+seed,seed,request_id,arm,arrival,decision_step,latency,decision,reason,risk,evidence_complete,forbidden,priority,oracle_safe,unsafe_executed,false_denial,safe_completed
+11,11,req-11-005,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-011,ungated,0,0,0,execute,no policy,high,1,1,standard,0,1,0,0
+11,11,req-11-018,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-026,ungated,0,0,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-030,ungated,0,0,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-049,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-054,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-058,ungated,0,0,0,execute,no policy,low,1,1,urgent,0,1,0,0
+11,11,req-11-062,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-010,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-014,ungated,1,1,0,execute,no policy,high,1,1,standard,0,1,0,0
+11,11,req-11-019,ungated,1,1,0,execute,no policy,high,0,0,urgent,0,1,0,0
+11,11,req-11-057,ungated,1,1,0,execute,no policy,low,0,0,urgent,1,0,0,1
+11,11,req-11-065,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-068,ungated,1,1,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-071,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-002,ungated,2,2,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-022,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-023,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-033,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-060,ungated,2,2,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-069,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-088,ungated,2,2,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-009,ungated,3,3,0,execute,no policy,low,0,0,urgent,1,0,0,1
+11,11,req-11-017,ungated,3,3,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-043,ungated,3,3,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-045,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-048,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-075,ungated,3,3,0,execute,no policy,low,0,1,standard,0,1,0,0
+11,11,req-11-082,ungated,3,3,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-089,ungated,3,3,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-092,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-094,ungated,3,3,0,execute,no policy,low,1,1,standard,0,1,0,0
+11,11,req-11-096,ungated,3,3,0,execute,no policy,high,0,0,standard,0,1,0,0
+11,11,req-11-013,ungated,4,4,0,execute,no policy,high,1,1,standard,0,1,0,0
+11,11,req-11-031,ungated,4,4,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-034,ungated,4,4,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-055,ungated,4,4,0,execute,no policy,high,0,1,standard,0,1,0,0
+11,11,req-11-073,ungated,4,4,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-074,ungated,4,4,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-081,ungated,4,4,0,execute,no policy,high,1,1,urgent,0,1,0,0
+11,11,req-11-084,ungated,4,4,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-090,ungated,4,4,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-006,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-036,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-037,ungated,5,5,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-059,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-063,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-098,ungated,5,5,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-099,ungated,5,5,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-025,ungated,6,6,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-027,ungated,6,6,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-038,ungated,6,6,0,execute,no policy,low,0,0,urgent,1,0,0,1
+11,11,req-11-047,ungated,6,6,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-000,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-007,ungated,7,7,0,execute,no policy,high,0,0,standard,0,1,0,0
+11,11,req-11-015,ungated,7,7,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-032,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-044,ungated,7,7,0,execute,no policy,high,0,0,standard,0,1,0,0
+11,11,req-11-046,ungated,7,7,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-050,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-052,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-056,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-078,ungated,7,7,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-079,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-080,ungated,7,7,0,execute,no policy,low,0,0,urgent,1,0,0,1
+11,11,req-11-083,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-008,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-042,ungated,8,8,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-051,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-067,ungated,8,8,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-072,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-076,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-001,ungated,9,9,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-020,ungated,9,9,0,execute,no policy,high,1,1,urgent,0,1,0,0
+11,11,req-11-021,ungated,9,9,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-029,ungated,9,9,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-077,ungated,9,9,0,execute,no policy,high,0,0,standard,0,1,0,0
+11,11,req-11-087,ungated,9,9,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-095,ungated,9,9,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-097,ungated,9,9,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-039,ungated,10,10,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-040,ungated,10,10,0,execute,no policy,high,0,0,standard,0,1,0,0
+11,11,req-11-053,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-064,ungated,10,10,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-070,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-085,ungated,10,10,0,execute,no policy,low,1,0,urgent,1,0,0,1
+11,11,req-11-086,ungated,10,10,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-003,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-004,ungated,11,11,0,execute,no policy,low,0,1,standard,0,1,0,0
+11,11,req-11-012,ungated,11,11,0,execute,no policy,high,0,0,standard,0,1,0,0
+11,11,req-11-016,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-024,ungated,11,11,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-028,ungated,11,11,0,execute,no policy,low,0,0,standard,1,0,0,1
+11,11,req-11-035,ungated,11,11,0,execute,no policy,high,0,1,standard,0,1,0,0
+11,11,req-11-041,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-061,ungated,11,11,0,execute,no policy,high,1,0,standard,1,0,0,1
+11,11,req-11-066,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-091,ungated,11,11,0,execute,no policy,high,1,0,urgent,1,0,0,1
+11,11,req-11-093,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+11,11,req-11-005,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-011,static,0,0,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+11,11,req-11-018,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-026,static,0,0,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-030,static,0,0,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-049,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-054,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-058,static,0,0,0,execute,risk below threshold,low,1,1,urgent,0,1,0,0
+11,11,req-11-062,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-010,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-014,static,1,1,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+11,11,req-11-019,static,1,1,0,deny,static risk threshold,high,0,0,urgent,0,0,0,0
+11,11,req-11-057,static,1,1,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+11,11,req-11-065,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-068,static,1,1,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-071,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-002,static,2,2,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-022,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-023,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-033,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-060,static,2,2,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-069,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-088,static,2,2,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-009,static,3,3,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+11,11,req-11-017,static,3,3,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-043,static,3,3,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-045,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-048,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-075,static,3,3,0,execute,risk below threshold,low,0,1,standard,0,1,0,0
+11,11,req-11-082,static,3,3,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-089,static,3,3,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-092,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-094,static,3,3,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+11,11,req-11-096,static,3,3,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+11,11,req-11-013,static,4,4,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+11,11,req-11-031,static,4,4,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-034,static,4,4,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-055,static,4,4,0,deny,static risk threshold,high,0,1,standard,0,0,0,0
+11,11,req-11-073,static,4,4,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-074,static,4,4,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-081,static,4,4,0,deny,static risk threshold,high,1,1,urgent,0,0,0,0
+11,11,req-11-084,static,4,4,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-090,static,4,4,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-006,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-036,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-037,static,5,5,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-059,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-063,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-098,static,5,5,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-099,static,5,5,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-025,static,6,6,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-027,static,6,6,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-038,static,6,6,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+11,11,req-11-047,static,6,6,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-000,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-007,static,7,7,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+11,11,req-11-015,static,7,7,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-032,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-044,static,7,7,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+11,11,req-11-046,static,7,7,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-050,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-052,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-056,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-078,static,7,7,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-079,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-080,static,7,7,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+11,11,req-11-083,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-008,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-042,static,8,8,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-051,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-067,static,8,8,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-072,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-076,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-001,static,9,9,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-020,static,9,9,0,deny,static risk threshold,high,1,1,urgent,0,0,0,0
+11,11,req-11-021,static,9,9,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-029,static,9,9,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-077,static,9,9,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+11,11,req-11-087,static,9,9,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-095,static,9,9,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-097,static,9,9,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-039,static,10,10,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-040,static,10,10,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+11,11,req-11-053,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-064,static,10,10,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-070,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-085,static,10,10,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+11,11,req-11-086,static,10,10,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-003,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-004,static,11,11,0,execute,risk below threshold,low,0,1,standard,0,1,0,0
+11,11,req-11-012,static,11,11,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+11,11,req-11-016,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-024,static,11,11,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-028,static,11,11,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+11,11,req-11-035,static,11,11,0,deny,static risk threshold,high,0,1,standard,0,0,0,0
+11,11,req-11-041,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-061,static,11,11,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+11,11,req-11-066,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-091,static,11,11,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+11,11,req-11-093,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+11,11,req-11-005,capacity_review,0,0,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-011,capacity_review,0,0,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+11,11,req-11-018,capacity_review,0,0,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-026,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-030,capacity_review,0,1,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+11,11,req-11-049,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-054,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-058,capacity_review,0,0,0,deny,deterministic forbidden-action rule,low,1,1,urgent,0,0,0,0
+11,11,req-11-062,capacity_review,0,1,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-010,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-014,capacity_review,1,1,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+11,11,req-11-019,capacity_review,1,2,1,deny,synthetic reviewer rejected missing evidence,high,0,0,urgent,0,0,0,0
+11,11,req-11-057,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+11,11,req-11-065,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-068,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-071,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-002,capacity_review,2,2,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-022,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-023,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-033,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-060,capacity_review,2,3,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+11,11,req-11-069,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-088,capacity_review,2,3,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+11,11,req-11-009,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+11,11,req-11-017,capacity_review,3,4,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-043,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-045,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-048,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-075,capacity_review,3,3,0,deny,deterministic forbidden-action rule,low,0,1,standard,0,0,0,0
+11,11,req-11-082,capacity_review,3,4,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+11,11,req-11-089,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-092,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-094,capacity_review,3,3,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+11,11,req-11-096,capacity_review,3,5,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+11,11,req-11-013,capacity_review,4,4,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+11,11,req-11-031,capacity_review,4,5,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-034,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-055,capacity_review,4,4,0,deny,deterministic forbidden-action rule,high,0,1,standard,0,0,0,0
+11,11,req-11-073,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-074,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-081,capacity_review,4,4,0,deny,deterministic forbidden-action rule,high,1,1,urgent,0,0,0,0
+11,11,req-11-084,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-090,capacity_review,4,6,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-006,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-036,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-037,capacity_review,5,6,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-059,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-063,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-098,capacity_review,5,7,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+11,11,req-11-099,capacity_review,5,7,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+11,11,req-11-025,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-027,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-038,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+11,11,req-11-047,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-000,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-007,capacity_review,7,8,1,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+11,11,req-11-015,capacity_review,7,8,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+11,11,req-11-032,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-044,capacity_review,7,9,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+11,11,req-11-046,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-050,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-052,capacity_review,7,9,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-056,capacity_review,7,10,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-078,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-079,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-080,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+11,11,req-11-083,capacity_review,7,10,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-008,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-042,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-051,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-067,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-072,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-076,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-001,capacity_review,9,11,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-020,capacity_review,9,9,0,deny,deterministic forbidden-action rule,high,1,1,urgent,0,0,0,0
+11,11,req-11-021,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-029,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-077,capacity_review,9,11,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+11,11,req-11-087,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-095,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-097,capacity_review,9,12,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-039,capacity_review,10,12,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+11,11,req-11-040,capacity_review,10,13,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+11,11,req-11-053,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-064,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-070,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-085,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+11,11,req-11-086,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-003,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-004,capacity_review,11,11,0,deny,deterministic forbidden-action rule,low,0,1,standard,0,0,0,0
+11,11,req-11-012,capacity_review,11,13,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+11,11,req-11-016,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-024,capacity_review,11,14,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+11,11,req-11-028,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+11,11,req-11-035,capacity_review,11,11,0,deny,deterministic forbidden-action rule,high,0,1,standard,0,0,0,0
+11,11,req-11-041,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-061,capacity_review,11,14,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+11,11,req-11-066,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+11,11,req-11-091,capacity_review,11,14,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+11,11,req-11-093,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-014,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-018,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-046,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-056,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-066,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-078,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-092,ungated,0,0,0,execute,no policy,high,0,0,standard,0,1,0,0
+29,29,req-29-008,ungated,1,1,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-029,ungated,1,1,0,execute,no policy,low,0,0,urgent,1,0,0,1
+29,29,req-29-049,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-051,ungated,1,1,0,execute,no policy,high,0,1,standard,0,1,0,0
+29,29,req-29-054,ungated,1,1,0,execute,no policy,low,0,0,urgent,1,0,0,1
+29,29,req-29-068,ungated,1,1,0,execute,no policy,high,1,1,urgent,0,1,0,0
+29,29,req-29-094,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-016,ungated,2,2,0,execute,no policy,high,1,0,urgent,1,0,0,1
+29,29,req-29-022,ungated,2,2,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-024,ungated,2,2,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-040,ungated,2,2,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-057,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-085,ungated,2,2,0,execute,no policy,low,0,0,standard,1,0,0,1
+29,29,req-29-093,ungated,2,2,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-004,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-005,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-017,ungated,3,3,0,execute,no policy,high,0,0,standard,0,1,0,0
+29,29,req-29-032,ungated,3,3,0,execute,no policy,low,0,0,standard,1,0,0,1
+29,29,req-29-035,ungated,3,3,0,execute,no policy,high,0,0,standard,0,1,0,0
+29,29,req-29-044,ungated,3,3,0,execute,no policy,high,1,0,urgent,1,0,0,1
+29,29,req-29-045,ungated,3,3,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-053,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-059,ungated,3,3,0,execute,no policy,low,0,0,standard,1,0,0,1
+29,29,req-29-070,ungated,3,3,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-076,ungated,3,3,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-089,ungated,3,3,0,execute,no policy,low,0,0,urgent,1,0,0,1
+29,29,req-29-096,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-098,ungated,3,3,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-007,ungated,4,4,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-047,ungated,4,4,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-067,ungated,4,4,0,execute,no policy,low,0,1,standard,0,1,0,0
+29,29,req-29-073,ungated,4,4,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-001,ungated,5,5,0,execute,no policy,high,0,1,standard,0,1,0,0
+29,29,req-29-025,ungated,5,5,0,execute,no policy,high,1,1,standard,0,1,0,0
+29,29,req-29-031,ungated,5,5,0,execute,no policy,high,1,0,urgent,1,0,0,1
+29,29,req-29-036,ungated,5,5,0,execute,no policy,low,1,1,standard,0,1,0,0
+29,29,req-29-038,ungated,5,5,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-065,ungated,5,5,0,execute,no policy,high,0,0,urgent,0,1,0,0
+29,29,req-29-080,ungated,5,5,0,execute,no policy,low,1,1,urgent,0,1,0,0
+29,29,req-29-083,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-095,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-097,ungated,5,5,0,execute,no policy,high,1,1,standard,0,1,0,0
+29,29,req-29-006,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-013,ungated,6,6,0,execute,no policy,low,0,0,standard,1,0,0,1
+29,29,req-29-021,ungated,6,6,0,execute,no policy,low,0,0,urgent,1,0,0,1
+29,29,req-29-041,ungated,6,6,0,execute,no policy,low,0,0,standard,1,0,0,1
+29,29,req-29-052,ungated,6,6,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-071,ungated,6,6,0,execute,no policy,high,0,0,standard,0,1,0,0
+29,29,req-29-090,ungated,6,6,0,execute,no policy,high,1,1,urgent,0,1,0,0
+29,29,req-29-023,ungated,7,7,0,execute,no policy,low,0,0,urgent,1,0,0,1
+29,29,req-29-033,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-043,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-061,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-075,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-084,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-091,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-000,ungated,8,8,0,execute,no policy,high,1,0,urgent,1,0,0,1
+29,29,req-29-019,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-042,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-060,ungated,8,8,0,execute,no policy,high,1,0,urgent,1,0,0,1
+29,29,req-29-063,ungated,8,8,0,execute,no policy,low,0,0,standard,1,0,0,1
+29,29,req-29-074,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-081,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-003,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-020,ungated,9,9,0,execute,no policy,high,1,0,urgent,1,0,0,1
+29,29,req-29-026,ungated,9,9,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-030,ungated,9,9,0,execute,no policy,high,0,0,standard,0,1,0,0
+29,29,req-29-034,ungated,9,9,0,execute,no policy,high,0,0,standard,0,1,0,0
+29,29,req-29-039,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-048,ungated,9,9,0,execute,no policy,low,0,0,standard,1,0,0,1
+29,29,req-29-055,ungated,9,9,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-069,ungated,9,9,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-072,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-099,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-002,ungated,10,10,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-010,ungated,10,10,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-012,ungated,10,10,0,execute,no policy,high,1,0,urgent,1,0,0,1
+29,29,req-29-015,ungated,10,10,0,execute,no policy,low,0,1,standard,0,1,0,0
+29,29,req-29-027,ungated,10,10,0,execute,no policy,high,0,0,standard,0,1,0,0
+29,29,req-29-028,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-037,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-050,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-058,ungated,10,10,0,execute,no policy,low,0,0,urgent,1,0,0,1
+29,29,req-29-062,ungated,10,10,0,execute,no policy,low,1,0,urgent,1,0,0,1
+29,29,req-29-077,ungated,10,10,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-079,ungated,10,10,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-087,ungated,10,10,0,execute,no policy,high,1,0,standard,1,0,0,1
+29,29,req-29-088,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-009,ungated,11,11,0,execute,no policy,high,0,0,standard,0,1,0,0
+29,29,req-29-011,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+29,29,req-29-064,ungated,11,11,0,execute,no policy,low,0,0,urgent,1,0,0,1
+29,29,req-29-082,ungated,11,11,0,execute,no policy,low,1,1,urgent,0,1,0,0
+29,29,req-29-086,ungated,11,11,0,execute,no policy,low,0,1,standard,0,1,0,0
+29,29,req-29-014,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-018,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-046,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-056,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-066,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-078,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-092,static,0,0,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+29,29,req-29-008,static,1,1,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-029,static,1,1,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+29,29,req-29-049,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-051,static,1,1,0,deny,static risk threshold,high,0,1,standard,0,0,0,0
+29,29,req-29-054,static,1,1,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+29,29,req-29-068,static,1,1,0,deny,static risk threshold,high,1,1,urgent,0,0,0,0
+29,29,req-29-094,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-016,static,2,2,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+29,29,req-29-022,static,2,2,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-024,static,2,2,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-040,static,2,2,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-057,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-085,static,2,2,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+29,29,req-29-093,static,2,2,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-004,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-005,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-017,static,3,3,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+29,29,req-29-032,static,3,3,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+29,29,req-29-035,static,3,3,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+29,29,req-29-044,static,3,3,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+29,29,req-29-045,static,3,3,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-053,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-059,static,3,3,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+29,29,req-29-070,static,3,3,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-076,static,3,3,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-089,static,3,3,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+29,29,req-29-096,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-098,static,3,3,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-007,static,4,4,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-047,static,4,4,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-067,static,4,4,0,execute,risk below threshold,low,0,1,standard,0,1,0,0
+29,29,req-29-073,static,4,4,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-001,static,5,5,0,deny,static risk threshold,high,0,1,standard,0,0,0,0
+29,29,req-29-025,static,5,5,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+29,29,req-29-031,static,5,5,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+29,29,req-29-036,static,5,5,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+29,29,req-29-038,static,5,5,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-065,static,5,5,0,deny,static risk threshold,high,0,0,urgent,0,0,0,0
+29,29,req-29-080,static,5,5,0,execute,risk below threshold,low,1,1,urgent,0,1,0,0
+29,29,req-29-083,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-095,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-097,static,5,5,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+29,29,req-29-006,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-013,static,6,6,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+29,29,req-29-021,static,6,6,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+29,29,req-29-041,static,6,6,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+29,29,req-29-052,static,6,6,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-071,static,6,6,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+29,29,req-29-090,static,6,6,0,deny,static risk threshold,high,1,1,urgent,0,0,0,0
+29,29,req-29-023,static,7,7,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+29,29,req-29-033,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-043,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-061,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-075,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-084,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-091,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-000,static,8,8,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+29,29,req-29-019,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-042,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-060,static,8,8,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+29,29,req-29-063,static,8,8,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+29,29,req-29-074,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-081,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-003,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-020,static,9,9,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+29,29,req-29-026,static,9,9,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-030,static,9,9,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+29,29,req-29-034,static,9,9,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+29,29,req-29-039,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-048,static,9,9,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+29,29,req-29-055,static,9,9,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-069,static,9,9,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-072,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-099,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-002,static,10,10,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-010,static,10,10,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-012,static,10,10,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+29,29,req-29-015,static,10,10,0,execute,risk below threshold,low,0,1,standard,0,1,0,0
+29,29,req-29-027,static,10,10,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+29,29,req-29-028,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-037,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-050,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-058,static,10,10,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+29,29,req-29-062,static,10,10,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+29,29,req-29-077,static,10,10,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-079,static,10,10,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-087,static,10,10,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+29,29,req-29-088,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-009,static,11,11,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+29,29,req-29-011,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+29,29,req-29-064,static,11,11,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+29,29,req-29-082,static,11,11,0,execute,risk below threshold,low,1,1,urgent,0,1,0,0
+29,29,req-29-086,static,11,11,0,execute,risk below threshold,low,0,1,standard,0,1,0,0
+29,29,req-29-014,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-018,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-046,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-056,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-066,capacity_review,0,0,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-078,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-092,capacity_review,0,0,0,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+29,29,req-29-008,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-029,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+29,29,req-29-049,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-051,capacity_review,1,1,0,deny,deterministic forbidden-action rule,high,0,1,standard,0,0,0,0
+29,29,req-29-054,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+29,29,req-29-068,capacity_review,1,1,0,deny,deterministic forbidden-action rule,high,1,1,urgent,0,0,0,0
+29,29,req-29-094,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-016,capacity_review,2,2,0,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+29,29,req-29-022,capacity_review,2,2,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-024,capacity_review,2,3,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-040,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-057,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-085,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+29,29,req-29-093,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-004,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-005,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-017,capacity_review,3,3,0,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+29,29,req-29-032,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+29,29,req-29-035,capacity_review,3,4,1,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+29,29,req-29-044,capacity_review,3,4,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+29,29,req-29-045,capacity_review,3,5,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-053,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-059,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+29,29,req-29-070,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-076,capacity_review,3,5,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-089,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+29,29,req-29-096,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-098,capacity_review,3,6,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-007,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-047,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-067,capacity_review,4,4,0,deny,deterministic forbidden-action rule,low,0,1,standard,0,0,0,0
+29,29,req-29-073,capacity_review,4,6,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-001,capacity_review,5,5,0,deny,deterministic forbidden-action rule,high,0,1,standard,0,0,0,0
+29,29,req-29-025,capacity_review,5,5,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+29,29,req-29-031,capacity_review,5,7,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+29,29,req-29-036,capacity_review,5,5,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+29,29,req-29-038,capacity_review,5,7,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-065,capacity_review,5,8,3,expired,review deadline missed,high,0,0,urgent,0,0,0,0
+29,29,req-29-080,capacity_review,5,5,0,deny,deterministic forbidden-action rule,low,1,1,urgent,0,0,0,0
+29,29,req-29-083,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-095,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-097,capacity_review,5,5,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+29,29,req-29-006,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-013,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+29,29,req-29-021,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+29,29,req-29-041,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+29,29,req-29-052,capacity_review,6,8,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-071,capacity_review,6,8,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+29,29,req-29-090,capacity_review,6,6,0,deny,deterministic forbidden-action rule,high,1,1,urgent,0,0,0,0
+29,29,req-29-023,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+29,29,req-29-033,capacity_review,7,9,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-043,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-061,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-075,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-084,capacity_review,7,9,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-091,capacity_review,7,10,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-000,capacity_review,8,10,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+29,29,req-29-019,capacity_review,8,11,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-042,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-060,capacity_review,8,11,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+29,29,req-29-063,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+29,29,req-29-074,capacity_review,8,11,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-081,capacity_review,8,12,4,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-003,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-020,capacity_review,9,12,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+29,29,req-29-026,capacity_review,9,12,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-030,capacity_review,9,13,4,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+29,29,req-29-034,capacity_review,9,13,4,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+29,29,req-29-039,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-048,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+29,29,req-29-055,capacity_review,9,14,5,expired,review deadline missed,high,1,0,standard,1,0,1,0
+29,29,req-29-069,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-072,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-099,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-002,capacity_review,10,14,4,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+29,29,req-29-010,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-012,capacity_review,10,13,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+29,29,req-29-015,capacity_review,10,10,0,deny,deterministic forbidden-action rule,low,0,1,standard,0,0,0,0
+29,29,req-29-027,capacity_review,10,14,4,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+29,29,req-29-028,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-037,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-050,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-058,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+29,29,req-29-062,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+29,29,req-29-077,capacity_review,10,15,5,expired,review deadline missed,high,1,0,standard,1,0,1,0
+29,29,req-29-079,capacity_review,10,15,5,expired,review deadline missed,high,1,0,standard,1,0,1,0
+29,29,req-29-087,capacity_review,10,15,5,expired,review deadline missed,high,1,0,standard,1,0,1,0
+29,29,req-29-088,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-009,capacity_review,11,15,4,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+29,29,req-29-011,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+29,29,req-29-064,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+29,29,req-29-082,capacity_review,11,11,0,deny,deterministic forbidden-action rule,low,1,1,urgent,0,0,0,0
+29,29,req-29-086,capacity_review,11,11,0,deny,deterministic forbidden-action rule,low,0,1,standard,0,0,0,0
+47,47,req-47-003,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-021,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-035,ungated,0,0,0,execute,no policy,low,0,0,urgent,1,0,0,1
+47,47,req-47-048,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-053,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-078,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-088,ungated,0,0,0,execute,no policy,high,0,0,standard,0,1,0,0
+47,47,req-47-091,ungated,0,0,0,execute,no policy,high,0,0,standard,0,1,0,0
+47,47,req-47-098,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-002,ungated,1,1,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-007,ungated,1,1,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-015,ungated,1,1,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-059,ungated,1,1,0,execute,no policy,high,0,0,urgent,0,1,0,0
+47,47,req-47-064,ungated,1,1,0,execute,no policy,high,0,0,standard,0,1,0,0
+47,47,req-47-069,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-073,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-086,ungated,1,1,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-095,ungated,1,1,0,execute,no policy,high,1,1,standard,0,1,0,0
+47,47,req-47-014,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-022,ungated,2,2,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-024,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-051,ungated,2,2,0,execute,no policy,low,1,1,standard,0,1,0,0
+47,47,req-47-062,ungated,2,2,0,execute,no policy,low,0,0,urgent,1,0,0,1
+47,47,req-47-065,ungated,2,2,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-066,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-006,ungated,3,3,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-013,ungated,3,3,0,execute,no policy,high,0,0,standard,0,1,0,0
+47,47,req-47-025,ungated,3,3,0,execute,no policy,low,1,1,standard,0,1,0,0
+47,47,req-47-060,ungated,3,3,0,execute,no policy,low,0,0,standard,1,0,0,1
+47,47,req-47-089,ungated,3,3,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-099,ungated,3,3,0,execute,no policy,high,0,1,standard,0,1,0,0
+47,47,req-47-010,ungated,4,4,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-012,ungated,4,4,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-029,ungated,4,4,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-032,ungated,4,4,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-036,ungated,4,4,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-046,ungated,4,4,0,execute,no policy,high,0,0,standard,0,1,0,0
+47,47,req-47-061,ungated,4,4,0,execute,no policy,low,0,0,urgent,1,0,0,1
+47,47,req-47-081,ungated,4,4,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-000,ungated,5,5,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-011,ungated,5,5,0,execute,no policy,low,0,0,standard,1,0,0,1
+47,47,req-47-018,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-033,ungated,5,5,0,execute,no policy,high,0,0,standard,0,1,0,0
+47,47,req-47-040,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-044,ungated,5,5,0,execute,no policy,low,0,0,urgent,1,0,0,1
+47,47,req-47-068,ungated,5,5,0,execute,no policy,high,0,0,standard,0,1,0,0
+47,47,req-47-080,ungated,5,5,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-082,ungated,5,5,0,execute,no policy,low,1,1,standard,0,1,0,0
+47,47,req-47-090,ungated,5,5,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-001,ungated,6,6,0,execute,no policy,high,0,0,urgent,0,1,0,0
+47,47,req-47-016,ungated,6,6,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-031,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-042,ungated,6,6,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-045,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-047,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-063,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-070,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-084,ungated,6,6,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-087,ungated,6,6,0,execute,no policy,low,0,1,standard,0,1,0,0
+47,47,req-47-093,ungated,6,6,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-097,ungated,6,6,0,execute,no policy,high,0,0,urgent,0,1,0,0
+47,47,req-47-009,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-023,ungated,7,7,0,execute,no policy,low,1,1,urgent,0,1,0,0
+47,47,req-47-028,ungated,7,7,0,execute,no policy,high,0,0,standard,0,1,0,0
+47,47,req-47-034,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-056,ungated,7,7,0,execute,no policy,low,0,0,standard,1,0,0,1
+47,47,req-47-072,ungated,7,7,0,execute,no policy,high,1,1,standard,0,1,0,0
+47,47,req-47-077,ungated,7,7,0,execute,no policy,high,0,0,urgent,0,1,0,0
+47,47,req-47-096,ungated,7,7,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-004,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-026,ungated,8,8,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-030,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-037,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-050,ungated,8,8,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-054,ungated,8,8,0,execute,no policy,low,0,0,standard,1,0,0,1
+47,47,req-47-055,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-067,ungated,8,8,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-071,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-076,ungated,8,8,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-092,ungated,8,8,0,execute,no policy,low,0,0,standard,1,0,0,1
+47,47,req-47-017,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-027,ungated,9,9,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-038,ungated,9,9,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-041,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-049,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-052,ungated,9,9,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-085,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-008,ungated,10,10,0,execute,no policy,low,0,0,standard,1,0,0,1
+47,47,req-47-039,ungated,10,10,0,execute,no policy,high,1,0,standard,1,0,0,1
+47,47,req-47-043,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-075,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-079,ungated,10,10,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-094,ungated,10,10,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-005,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+47,47,req-47-019,ungated,11,11,0,execute,no policy,high,1,0,urgent,1,0,0,1
+47,47,req-47-020,ungated,11,11,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-057,ungated,11,11,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-058,ungated,11,11,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-074,ungated,11,11,0,execute,no policy,low,1,0,urgent,1,0,0,1
+47,47,req-47-083,ungated,11,11,0,execute,no policy,low,0,0,standard,1,0,0,1
+47,47,req-47-003,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-021,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-035,static,0,0,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+47,47,req-47-048,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-053,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-078,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-088,static,0,0,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+47,47,req-47-091,static,0,0,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+47,47,req-47-098,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-002,static,1,1,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-007,static,1,1,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-015,static,1,1,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-059,static,1,1,0,deny,static risk threshold,high,0,0,urgent,0,0,0,0
+47,47,req-47-064,static,1,1,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+47,47,req-47-069,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-073,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-086,static,1,1,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-095,static,1,1,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+47,47,req-47-014,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-022,static,2,2,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-024,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-051,static,2,2,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+47,47,req-47-062,static,2,2,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+47,47,req-47-065,static,2,2,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-066,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-006,static,3,3,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-013,static,3,3,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+47,47,req-47-025,static,3,3,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+47,47,req-47-060,static,3,3,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+47,47,req-47-089,static,3,3,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-099,static,3,3,0,deny,static risk threshold,high,0,1,standard,0,0,0,0
+47,47,req-47-010,static,4,4,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-012,static,4,4,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-029,static,4,4,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-032,static,4,4,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-036,static,4,4,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-046,static,4,4,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+47,47,req-47-061,static,4,4,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+47,47,req-47-081,static,4,4,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-000,static,5,5,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-011,static,5,5,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+47,47,req-47-018,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-033,static,5,5,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+47,47,req-47-040,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-044,static,5,5,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+47,47,req-47-068,static,5,5,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+47,47,req-47-080,static,5,5,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-082,static,5,5,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+47,47,req-47-090,static,5,5,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-001,static,6,6,0,deny,static risk threshold,high,0,0,urgent,0,0,0,0
+47,47,req-47-016,static,6,6,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-031,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-042,static,6,6,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-045,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-047,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-063,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-070,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-084,static,6,6,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-087,static,6,6,0,execute,risk below threshold,low,0,1,standard,0,1,0,0
+47,47,req-47-093,static,6,6,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-097,static,6,6,0,deny,static risk threshold,high,0,0,urgent,0,0,0,0
+47,47,req-47-009,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-023,static,7,7,0,execute,risk below threshold,low,1,1,urgent,0,1,0,0
+47,47,req-47-028,static,7,7,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+47,47,req-47-034,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-056,static,7,7,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+47,47,req-47-072,static,7,7,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+47,47,req-47-077,static,7,7,0,deny,static risk threshold,high,0,0,urgent,0,0,0,0
+47,47,req-47-096,static,7,7,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-004,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-026,static,8,8,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-030,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-037,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-050,static,8,8,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-054,static,8,8,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+47,47,req-47-055,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-067,static,8,8,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-071,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-076,static,8,8,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-092,static,8,8,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+47,47,req-47-017,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-027,static,9,9,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-038,static,9,9,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-041,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-049,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-052,static,9,9,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-085,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-008,static,10,10,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+47,47,req-47-039,static,10,10,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+47,47,req-47-043,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-075,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-079,static,10,10,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-094,static,10,10,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-005,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+47,47,req-47-019,static,11,11,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+47,47,req-47-020,static,11,11,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-057,static,11,11,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-058,static,11,11,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-074,static,11,11,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+47,47,req-47-083,static,11,11,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+47,47,req-47-003,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-021,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-035,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+47,47,req-47-048,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-053,capacity_review,0,0,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-078,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-088,capacity_review,0,0,0,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+47,47,req-47-091,capacity_review,0,1,1,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+47,47,req-47-098,capacity_review,0,1,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-002,capacity_review,1,2,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-007,capacity_review,1,2,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+47,47,req-47-015,capacity_review,1,3,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-059,capacity_review,1,3,2,deny,synthetic reviewer rejected missing evidence,high,0,0,urgent,0,0,0,0
+47,47,req-47-064,capacity_review,1,4,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+47,47,req-47-069,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-073,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-086,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-095,capacity_review,1,1,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+47,47,req-47-014,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-022,capacity_review,2,4,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-024,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-051,capacity_review,2,2,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+47,47,req-47-062,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+47,47,req-47-065,capacity_review,2,5,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+47,47,req-47-066,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-006,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-013,capacity_review,3,5,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+47,47,req-47-025,capacity_review,3,3,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+47,47,req-47-060,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+47,47,req-47-089,capacity_review,3,5,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-099,capacity_review,3,3,0,deny,deterministic forbidden-action rule,high,0,1,standard,0,0,0,0
+47,47,req-47-010,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-012,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-029,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-032,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-036,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-046,capacity_review,4,6,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+47,47,req-47-061,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+47,47,req-47-081,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-000,capacity_review,5,6,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+47,47,req-47-011,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+47,47,req-47-018,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-033,capacity_review,5,7,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+47,47,req-47-040,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-044,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+47,47,req-47-068,capacity_review,5,7,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+47,47,req-47-080,capacity_review,5,8,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-082,capacity_review,5,5,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+47,47,req-47-090,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-001,capacity_review,6,8,2,deny,synthetic reviewer rejected missing evidence,high,0,0,urgent,0,0,0,0
+47,47,req-47-016,capacity_review,6,9,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-031,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-042,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-045,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-047,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-063,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-070,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-084,capacity_review,6,9,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-087,capacity_review,6,6,0,deny,deterministic forbidden-action rule,low,0,1,standard,0,0,0,0
+47,47,req-47-093,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-097,capacity_review,6,9,3,expired,review deadline missed,high,0,0,urgent,0,0,0,0
+47,47,req-47-009,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-023,capacity_review,7,7,0,deny,deterministic forbidden-action rule,low,1,1,urgent,0,0,0,0
+47,47,req-47-028,capacity_review,7,10,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+47,47,req-47-034,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-056,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+47,47,req-47-072,capacity_review,7,7,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+47,47,req-47-077,capacity_review,7,10,3,expired,review deadline missed,high,0,0,urgent,0,0,0,0
+47,47,req-47-096,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-004,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-026,capacity_review,8,10,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+47,47,req-47-030,capacity_review,8,11,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-037,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-050,capacity_review,8,11,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+47,47,req-47-054,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+47,47,req-47-055,capacity_review,8,11,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-067,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-071,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-076,capacity_review,8,11,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+47,47,req-47-092,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+47,47,req-47-017,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-027,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-038,capacity_review,9,12,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+47,47,req-47-041,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-049,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-052,capacity_review,9,12,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-085,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-008,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+47,47,req-47-039,capacity_review,10,12,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+47,47,req-47-043,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-075,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-079,capacity_review,10,13,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+47,47,req-47-094,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-005,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+47,47,req-47-019,capacity_review,11,13,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+47,47,req-47-020,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-057,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-058,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-074,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+47,47,req-47-083,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-004,ungated,0,0,0,execute,no policy,low,0,0,standard,1,0,0,1
+83,83,req-83-014,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-015,ungated,0,0,0,execute,no policy,low,0,0,urgent,1,0,0,1
+83,83,req-83-017,ungated,0,0,0,execute,no policy,low,0,0,standard,1,0,0,1
+83,83,req-83-027,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-035,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-036,ungated,0,0,0,execute,no policy,low,1,1,urgent,0,1,0,0
+83,83,req-83-041,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-080,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-088,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-092,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-098,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-009,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-019,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-023,ungated,1,1,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-045,ungated,1,1,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-052,ungated,1,1,0,execute,no policy,low,0,0,standard,1,0,0,1
+83,83,req-83-056,ungated,1,1,0,execute,no policy,high,1,0,urgent,1,0,0,1
+83,83,req-83-058,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-060,ungated,1,1,0,execute,no policy,low,0,0,urgent,1,0,0,1
+83,83,req-83-061,ungated,1,1,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-072,ungated,1,1,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-096,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-099,ungated,1,1,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-029,ungated,2,2,0,execute,no policy,high,1,0,urgent,1,0,0,1
+83,83,req-83-034,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-037,ungated,2,2,0,execute,no policy,high,1,1,standard,0,1,0,0
+83,83,req-83-075,ungated,2,2,0,execute,no policy,high,1,0,urgent,1,0,0,1
+83,83,req-83-090,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-024,ungated,3,3,0,execute,no policy,low,0,0,standard,1,0,0,1
+83,83,req-83-025,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-032,ungated,3,3,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-044,ungated,3,3,0,execute,no policy,high,1,0,urgent,1,0,0,1
+83,83,req-83-074,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-081,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-083,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-010,ungated,4,4,0,execute,no policy,low,0,1,urgent,0,1,0,0
+83,83,req-83-012,ungated,4,4,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-018,ungated,4,4,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-030,ungated,4,4,0,execute,no policy,low,0,0,urgent,1,0,0,1
+83,83,req-83-042,ungated,4,4,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-043,ungated,4,4,0,execute,no policy,low,0,0,standard,1,0,0,1
+83,83,req-83-089,ungated,4,4,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-097,ungated,4,4,0,execute,no policy,low,0,0,standard,1,0,0,1
+83,83,req-83-008,ungated,5,5,0,execute,no policy,low,0,0,urgent,1,0,0,1
+83,83,req-83-013,ungated,5,5,0,execute,no policy,low,0,0,urgent,1,0,0,1
+83,83,req-83-028,ungated,5,5,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-066,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-086,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-002,ungated,6,6,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-007,ungated,6,6,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-011,ungated,6,6,0,execute,no policy,low,0,0,standard,1,0,0,1
+83,83,req-83-031,ungated,6,6,0,execute,no policy,high,1,0,urgent,1,0,0,1
+83,83,req-83-067,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-069,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-070,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-079,ungated,6,6,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-084,ungated,6,6,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-000,ungated,7,7,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-016,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-021,ungated,7,7,0,execute,no policy,low,1,1,standard,0,1,0,0
+83,83,req-83-046,ungated,7,7,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-051,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-054,ungated,7,7,0,execute,no policy,high,0,0,standard,0,1,0,0
+83,83,req-83-047,ungated,8,8,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-048,ungated,8,8,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-050,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-055,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-057,ungated,8,8,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-062,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-064,ungated,8,8,0,execute,no policy,high,0,1,urgent,0,1,0,0
+83,83,req-83-065,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-082,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-091,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-094,ungated,8,8,0,execute,no policy,high,0,0,standard,0,1,0,0
+83,83,req-83-005,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-006,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-022,ungated,9,9,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-039,ungated,9,9,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-049,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-053,ungated,9,9,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-068,ungated,9,9,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-071,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-077,ungated,9,9,0,execute,no policy,high,0,0,standard,0,1,0,0
+83,83,req-83-087,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-001,ungated,10,10,0,execute,no policy,high,0,0,standard,0,1,0,0
+83,83,req-83-003,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-026,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-063,ungated,10,10,0,execute,no policy,high,1,0,urgent,1,0,0,1
+83,83,req-83-020,ungated,11,11,0,execute,no policy,low,1,1,urgent,0,1,0,0
+83,83,req-83-033,ungated,11,11,0,execute,no policy,low,1,0,urgent,1,0,0,1
+83,83,req-83-038,ungated,11,11,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-040,ungated,11,11,0,execute,no policy,low,0,0,standard,1,0,0,1
+83,83,req-83-059,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-073,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-076,ungated,11,11,0,execute,no policy,high,0,0,standard,0,1,0,0
+83,83,req-83-078,ungated,11,11,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-085,ungated,11,11,0,execute,no policy,high,1,1,standard,0,1,0,0
+83,83,req-83-093,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+83,83,req-83-095,ungated,11,11,0,execute,no policy,high,1,0,standard,1,0,0,1
+83,83,req-83-004,static,0,0,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+83,83,req-83-014,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-015,static,0,0,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+83,83,req-83-017,static,0,0,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+83,83,req-83-027,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-035,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-036,static,0,0,0,execute,risk below threshold,low,1,1,urgent,0,1,0,0
+83,83,req-83-041,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-080,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-088,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-092,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-098,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-009,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-019,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-023,static,1,1,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-045,static,1,1,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-052,static,1,1,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+83,83,req-83-056,static,1,1,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+83,83,req-83-058,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-060,static,1,1,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+83,83,req-83-061,static,1,1,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-072,static,1,1,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-096,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-099,static,1,1,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-029,static,2,2,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+83,83,req-83-034,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-037,static,2,2,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+83,83,req-83-075,static,2,2,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+83,83,req-83-090,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-024,static,3,3,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+83,83,req-83-025,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-032,static,3,3,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-044,static,3,3,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+83,83,req-83-074,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-081,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-083,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-010,static,4,4,0,execute,risk below threshold,low,0,1,urgent,0,1,0,0
+83,83,req-83-012,static,4,4,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-018,static,4,4,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-030,static,4,4,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+83,83,req-83-042,static,4,4,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-043,static,4,4,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+83,83,req-83-089,static,4,4,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-097,static,4,4,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+83,83,req-83-008,static,5,5,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+83,83,req-83-013,static,5,5,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+83,83,req-83-028,static,5,5,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-066,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-086,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-002,static,6,6,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-007,static,6,6,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-011,static,6,6,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+83,83,req-83-031,static,6,6,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+83,83,req-83-067,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-069,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-070,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-079,static,6,6,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-084,static,6,6,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-000,static,7,7,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-016,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-021,static,7,7,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+83,83,req-83-046,static,7,7,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-051,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-054,static,7,7,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+83,83,req-83-047,static,8,8,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-048,static,8,8,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-050,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-055,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-057,static,8,8,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-062,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-064,static,8,8,0,deny,static risk threshold,high,0,1,urgent,0,0,0,0
+83,83,req-83-065,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-082,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-091,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-094,static,8,8,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+83,83,req-83-005,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-006,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-022,static,9,9,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-039,static,9,9,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-049,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-053,static,9,9,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-068,static,9,9,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-071,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-077,static,9,9,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+83,83,req-83-087,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-001,static,10,10,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+83,83,req-83-003,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-026,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-063,static,10,10,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+83,83,req-83-020,static,11,11,0,execute,risk below threshold,low,1,1,urgent,0,1,0,0
+83,83,req-83-033,static,11,11,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+83,83,req-83-038,static,11,11,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-040,static,11,11,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+83,83,req-83-059,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-073,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-076,static,11,11,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+83,83,req-83-078,static,11,11,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-085,static,11,11,0,deny,static risk threshold,high,1,1,standard,0,0,0,0
+83,83,req-83-093,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+83,83,req-83-095,static,11,11,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+83,83,req-83-004,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-014,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-015,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+83,83,req-83-017,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-027,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-035,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-036,capacity_review,0,0,0,deny,deterministic forbidden-action rule,low,1,1,urgent,0,0,0,0
+83,83,req-83-041,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-080,capacity_review,0,0,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-088,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-092,capacity_review,0,0,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-098,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-009,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-019,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-023,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-045,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-052,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-056,capacity_review,1,1,0,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+83,83,req-83-058,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-060,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+83,83,req-83-061,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-072,capacity_review,1,1,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-096,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-099,capacity_review,1,2,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-029,capacity_review,2,2,0,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+83,83,req-83-034,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-037,capacity_review,2,2,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+83,83,req-83-075,capacity_review,2,3,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+83,83,req-83-090,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-024,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-025,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-032,capacity_review,3,3,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-044,capacity_review,3,4,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+83,83,req-83-074,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-081,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-083,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-010,capacity_review,4,4,0,deny,deterministic forbidden-action rule,low,0,1,urgent,0,0,0,0
+83,83,req-83-012,capacity_review,4,4,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-018,capacity_review,4,5,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-030,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+83,83,req-83-042,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-043,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-089,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-097,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-008,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+83,83,req-83-013,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+83,83,req-83-028,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-066,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-086,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-002,capacity_review,6,6,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-007,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-011,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-031,capacity_review,6,6,0,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+83,83,req-83-067,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-069,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-070,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-079,capacity_review,6,7,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-084,capacity_review,6,7,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-000,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-016,capacity_review,7,8,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-021,capacity_review,7,7,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+83,83,req-83-046,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-051,capacity_review,7,8,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-054,capacity_review,7,9,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+83,83,req-83-047,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-048,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-050,capacity_review,8,9,1,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-055,capacity_review,8,10,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-057,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-062,capacity_review,8,10,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-064,capacity_review,8,8,0,deny,deterministic forbidden-action rule,high,0,1,urgent,0,0,0,0
+83,83,req-83-065,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-082,capacity_review,8,11,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-091,capacity_review,8,11,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-094,capacity_review,8,12,4,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+83,83,req-83-005,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-006,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-022,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-039,capacity_review,9,12,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-049,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-053,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-068,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-071,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-077,capacity_review,9,13,4,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+83,83,req-83-087,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-001,capacity_review,10,13,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+83,83,req-83-003,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-026,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-063,capacity_review,10,13,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+83,83,req-83-020,capacity_review,11,11,0,deny,deterministic forbidden-action rule,low,1,1,urgent,0,0,0,0
+83,83,req-83-033,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+83,83,req-83-038,capacity_review,11,14,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-040,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+83,83,req-83-059,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-073,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-076,capacity_review,11,14,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+83,83,req-83-078,capacity_review,11,15,4,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+83,83,req-83-085,capacity_review,11,11,0,deny,deterministic forbidden-action rule,high,1,1,standard,0,0,0,0
+83,83,req-83-093,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+83,83,req-83-095,capacity_review,11,15,4,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-001,ungated,0,0,0,execute,no policy,low,0,0,urgent,1,0,0,1
+101,101,req-101-013,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-021,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-026,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-043,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-050,ungated,0,0,0,execute,no policy,low,0,0,urgent,1,0,0,1
+101,101,req-101-055,ungated,0,0,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-068,ungated,0,0,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-073,ungated,0,0,0,execute,no policy,high,1,1,urgent,0,1,0,0
+101,101,req-101-082,ungated,0,0,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-083,ungated,0,0,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-085,ungated,0,0,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-097,ungated,0,0,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-007,ungated,1,1,0,execute,no policy,low,1,1,standard,0,1,0,0
+101,101,req-101-010,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-014,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-025,ungated,1,1,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-036,ungated,1,1,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-041,ungated,1,1,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-044,ungated,1,1,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-081,ungated,1,1,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-091,ungated,1,1,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-003,ungated,2,2,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-012,ungated,2,2,0,execute,no policy,low,1,1,urgent,0,1,0,0
+101,101,req-101-042,ungated,2,2,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-046,ungated,2,2,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-057,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-063,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-067,ungated,2,2,0,execute,no policy,low,0,0,standard,1,0,0,1
+101,101,req-101-080,ungated,2,2,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-093,ungated,2,2,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-096,ungated,2,2,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-037,ungated,3,3,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-060,ungated,3,3,0,execute,no policy,low,1,1,standard,0,1,0,0
+101,101,req-101-071,ungated,3,3,0,execute,no policy,low,0,0,standard,1,0,0,1
+101,101,req-101-076,ungated,3,3,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-084,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-086,ungated,3,3,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-009,ungated,4,4,0,execute,no policy,low,0,1,urgent,0,1,0,0
+101,101,req-101-017,ungated,4,4,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-019,ungated,4,4,0,execute,no policy,low,0,0,urgent,1,0,0,1
+101,101,req-101-031,ungated,4,4,0,execute,no policy,low,0,1,standard,0,1,0,0
+101,101,req-101-033,ungated,4,4,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-045,ungated,4,4,0,execute,no policy,low,0,0,urgent,1,0,0,1
+101,101,req-101-048,ungated,4,4,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-072,ungated,4,4,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-092,ungated,4,4,0,execute,no policy,low,0,0,standard,1,0,0,1
+101,101,req-101-099,ungated,4,4,0,execute,no policy,low,0,1,urgent,0,1,0,0
+101,101,req-101-004,ungated,5,5,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-018,ungated,5,5,0,execute,no policy,low,0,0,standard,1,0,0,1
+101,101,req-101-020,ungated,5,5,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-022,ungated,5,5,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-024,ungated,5,5,0,execute,no policy,low,1,1,urgent,0,1,0,0
+101,101,req-101-027,ungated,5,5,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-058,ungated,5,5,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-062,ungated,5,5,0,execute,no policy,low,0,0,urgent,1,0,0,1
+101,101,req-101-065,ungated,5,5,0,execute,no policy,low,0,1,standard,0,1,0,0
+101,101,req-101-098,ungated,5,5,0,execute,no policy,low,0,0,standard,1,0,0,1
+101,101,req-101-029,ungated,6,6,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-056,ungated,6,6,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-059,ungated,6,6,0,execute,no policy,high,0,0,urgent,0,1,0,0
+101,101,req-101-095,ungated,6,6,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-005,ungated,7,7,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-053,ungated,7,7,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-064,ungated,7,7,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-090,ungated,7,7,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-008,ungated,8,8,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-016,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-023,ungated,8,8,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-028,ungated,8,8,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-040,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-051,ungated,8,8,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-070,ungated,8,8,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-078,ungated,8,8,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-000,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-030,ungated,9,9,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-032,ungated,9,9,0,execute,no policy,low,0,0,standard,1,0,0,1
+101,101,req-101-049,ungated,9,9,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-006,ungated,10,10,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-011,ungated,10,10,0,execute,no policy,low,0,0,standard,1,0,0,1
+101,101,req-101-015,ungated,10,10,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-034,ungated,10,10,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-039,ungated,10,10,0,execute,no policy,low,0,0,standard,1,0,0,1
+101,101,req-101-052,ungated,10,10,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-054,ungated,10,10,0,execute,no policy,high,0,1,standard,0,1,0,0
+101,101,req-101-074,ungated,10,10,0,execute,no policy,high,1,1,urgent,0,1,0,0
+101,101,req-101-075,ungated,10,10,0,execute,no policy,high,1,0,urgent,1,0,0,1
+101,101,req-101-088,ungated,10,10,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-089,ungated,10,10,0,execute,no policy,low,1,1,standard,0,1,0,0
+101,101,req-101-002,ungated,11,11,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-035,ungated,11,11,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-038,ungated,11,11,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-047,ungated,11,11,0,execute,no policy,low,1,0,urgent,1,0,0,1
+101,101,req-101-061,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-066,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-069,ungated,11,11,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-077,ungated,11,11,0,execute,no policy,high,0,0,standard,0,1,0,0
+101,101,req-101-079,ungated,11,11,0,execute,no policy,low,1,0,standard,1,0,0,1
+101,101,req-101-087,ungated,11,11,0,execute,no policy,high,1,0,standard,1,0,0,1
+101,101,req-101-094,ungated,11,11,0,execute,no policy,high,1,1,urgent,0,1,0,0
+101,101,req-101-001,static,0,0,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+101,101,req-101-013,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-021,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-026,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-043,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-050,static,0,0,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+101,101,req-101-055,static,0,0,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-068,static,0,0,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-073,static,0,0,0,deny,static risk threshold,high,1,1,urgent,0,0,0,0
+101,101,req-101-082,static,0,0,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-083,static,0,0,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-085,static,0,0,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-097,static,0,0,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-007,static,1,1,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+101,101,req-101-010,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-014,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-025,static,1,1,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-036,static,1,1,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-041,static,1,1,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-044,static,1,1,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-081,static,1,1,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-091,static,1,1,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-003,static,2,2,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-012,static,2,2,0,execute,risk below threshold,low,1,1,urgent,0,1,0,0
+101,101,req-101-042,static,2,2,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-046,static,2,2,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-057,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-063,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-067,static,2,2,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+101,101,req-101-080,static,2,2,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-093,static,2,2,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-096,static,2,2,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-037,static,3,3,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-060,static,3,3,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+101,101,req-101-071,static,3,3,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+101,101,req-101-076,static,3,3,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-084,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-086,static,3,3,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-009,static,4,4,0,execute,risk below threshold,low,0,1,urgent,0,1,0,0
+101,101,req-101-017,static,4,4,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-019,static,4,4,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+101,101,req-101-031,static,4,4,0,execute,risk below threshold,low,0,1,standard,0,1,0,0
+101,101,req-101-033,static,4,4,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-045,static,4,4,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+101,101,req-101-048,static,4,4,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-072,static,4,4,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-092,static,4,4,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+101,101,req-101-099,static,4,4,0,execute,risk below threshold,low,0,1,urgent,0,1,0,0
+101,101,req-101-004,static,5,5,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-018,static,5,5,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+101,101,req-101-020,static,5,5,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-022,static,5,5,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-024,static,5,5,0,execute,risk below threshold,low,1,1,urgent,0,1,0,0
+101,101,req-101-027,static,5,5,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-058,static,5,5,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-062,static,5,5,0,execute,risk below threshold,low,0,0,urgent,1,0,0,1
+101,101,req-101-065,static,5,5,0,execute,risk below threshold,low,0,1,standard,0,1,0,0
+101,101,req-101-098,static,5,5,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+101,101,req-101-029,static,6,6,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-056,static,6,6,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-059,static,6,6,0,deny,static risk threshold,high,0,0,urgent,0,0,0,0
+101,101,req-101-095,static,6,6,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-005,static,7,7,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-053,static,7,7,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-064,static,7,7,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-090,static,7,7,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-008,static,8,8,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-016,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-023,static,8,8,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-028,static,8,8,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-040,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-051,static,8,8,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-070,static,8,8,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-078,static,8,8,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-000,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-030,static,9,9,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-032,static,9,9,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+101,101,req-101-049,static,9,9,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-006,static,10,10,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-011,static,10,10,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+101,101,req-101-015,static,10,10,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-034,static,10,10,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-039,static,10,10,0,execute,risk below threshold,low,0,0,standard,1,0,0,1
+101,101,req-101-052,static,10,10,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-054,static,10,10,0,deny,static risk threshold,high,0,1,standard,0,0,0,0
+101,101,req-101-074,static,10,10,0,deny,static risk threshold,high,1,1,urgent,0,0,0,0
+101,101,req-101-075,static,10,10,0,deny,static risk threshold,high,1,0,urgent,1,0,1,0
+101,101,req-101-088,static,10,10,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-089,static,10,10,0,execute,risk below threshold,low,1,1,standard,0,1,0,0
+101,101,req-101-002,static,11,11,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-035,static,11,11,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-038,static,11,11,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-047,static,11,11,0,execute,risk below threshold,low,1,0,urgent,1,0,0,1
+101,101,req-101-061,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-066,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-069,static,11,11,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-077,static,11,11,0,deny,static risk threshold,high,0,0,standard,0,0,0,0
+101,101,req-101-079,static,11,11,0,execute,risk below threshold,low,1,0,standard,1,0,0,1
+101,101,req-101-087,static,11,11,0,deny,static risk threshold,high,1,0,standard,1,0,1,0
+101,101,req-101-094,static,11,11,0,deny,static risk threshold,high,1,1,urgent,0,0,0,0
+101,101,req-101-001,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+101,101,req-101-013,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-021,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-026,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-043,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-050,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+101,101,req-101-055,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-068,capacity_review,0,0,0,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+101,101,req-101-073,capacity_review,0,0,0,deny,deterministic forbidden-action rule,high,1,1,urgent,0,0,0,0
+101,101,req-101-082,capacity_review,0,0,0,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-083,capacity_review,0,0,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-085,capacity_review,0,1,1,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-097,capacity_review,0,1,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+101,101,req-101-007,capacity_review,1,1,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+101,101,req-101-010,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-014,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-025,capacity_review,1,2,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+101,101,req-101-036,capacity_review,1,2,1,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+101,101,req-101-041,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-044,capacity_review,1,1,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-081,capacity_review,1,3,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-091,capacity_review,1,3,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+101,101,req-101-003,capacity_review,2,4,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-012,capacity_review,2,2,0,deny,deterministic forbidden-action rule,low,1,1,urgent,0,0,0,0
+101,101,req-101-042,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-046,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-057,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-063,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-067,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+101,101,req-101-080,capacity_review,2,4,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+101,101,req-101-093,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-096,capacity_review,2,2,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-037,capacity_review,3,5,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-060,capacity_review,3,3,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+101,101,req-101-071,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+101,101,req-101-076,capacity_review,3,5,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-084,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-086,capacity_review,3,3,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-009,capacity_review,4,4,0,deny,deterministic forbidden-action rule,low,0,1,urgent,0,0,0,0
+101,101,req-101-017,capacity_review,4,6,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-019,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+101,101,req-101-031,capacity_review,4,4,0,deny,deterministic forbidden-action rule,low,0,1,standard,0,0,0,0
+101,101,req-101-033,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-045,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+101,101,req-101-048,capacity_review,4,6,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-072,capacity_review,4,7,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-092,capacity_review,4,4,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+101,101,req-101-099,capacity_review,4,4,0,deny,deterministic forbidden-action rule,low,0,1,urgent,0,0,0,0
+101,101,req-101-004,capacity_review,5,7,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+101,101,req-101-018,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+101,101,req-101-020,capacity_review,5,8,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+101,101,req-101-022,capacity_review,5,8,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-024,capacity_review,5,5,0,deny,deterministic forbidden-action rule,low,1,1,urgent,0,0,0,0
+101,101,req-101-027,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-058,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-062,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,0,0,urgent,1,0,0,1
+101,101,req-101-065,capacity_review,5,5,0,deny,deterministic forbidden-action rule,low,0,1,standard,0,0,0,0
+101,101,req-101-098,capacity_review,5,5,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+101,101,req-101-029,capacity_review,6,8,2,execute,synthetic reviewer approved evidence,high,1,0,urgent,1,0,0,1
+101,101,req-101-056,capacity_review,6,9,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-059,capacity_review,6,9,3,expired,review deadline missed,high,0,0,urgent,0,0,0,0
+101,101,req-101-095,capacity_review,6,6,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-005,capacity_review,7,9,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-053,capacity_review,7,7,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-064,capacity_review,7,10,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-090,capacity_review,7,10,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-008,capacity_review,8,11,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-016,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-023,capacity_review,8,11,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-028,capacity_review,8,11,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+101,101,req-101-040,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-051,capacity_review,8,11,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+101,101,req-101-070,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-078,capacity_review,8,8,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-000,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-030,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-032,capacity_review,9,9,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+101,101,req-101-049,capacity_review,9,12,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-006,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-011,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+101,101,req-101-015,capacity_review,10,12,2,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-034,capacity_review,10,13,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-039,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,0,0,standard,1,0,0,1
+101,101,req-101-052,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-054,capacity_review,10,10,0,deny,deterministic forbidden-action rule,high,0,1,standard,0,0,0,0
+101,101,req-101-074,capacity_review,10,10,0,deny,deterministic forbidden-action rule,high,1,1,urgent,0,0,0,0
+101,101,req-101-075,capacity_review,10,13,3,expired,review deadline missed,high,1,0,urgent,1,0,1,0
+101,101,req-101-088,capacity_review,10,10,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-089,capacity_review,10,10,0,deny,deterministic forbidden-action rule,low,1,1,standard,0,0,0,0
+101,101,req-101-002,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-035,capacity_review,11,13,2,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-038,capacity_review,11,14,3,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-047,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,urgent,1,0,0,1
+101,101,req-101-061,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-066,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-069,capacity_review,11,14,3,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-077,capacity_review,11,15,4,deny,synthetic reviewer rejected missing evidence,high,0,0,standard,0,0,0,0
+101,101,req-101-079,capacity_review,11,11,0,execute,low-risk approved by explicit rule,low,1,0,standard,1,0,0,1
+101,101,req-101-087,capacity_review,11,15,4,execute,synthetic reviewer approved evidence,high,1,0,standard,1,0,0,1
+101,101,req-101-094,capacity_review,11,11,0,deny,deterministic forbidden-action rule,high,1,1,urgent,0,0,0,0

@@ -1,0 +1,332 @@
+{
+  "aggregate": {
+    "capacity_review": {
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "unsafe_action_rate": 0.0
+    },
+    "static": {
+      "false_denial_count": 25.4,
+      "false_denial_rate": 0.3142,
+      "review_expirations": 0,
+      "safe_task_completion": 0.6858,
+      "unsafe_action_rate": 0.0926
+    },
+    "ungated": {
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "review_expirations": 0,
+      "safe_task_completion": 1.0,
+      "unsafe_action_rate": 0.19
+    }
+  },
+  "arms": [
+    "ungated",
+    "static",
+    "capacity_review"
+  ],
+  "caveat": "SIMULATED REVIEWERS only; descriptive synthetic results, NOT human or real-world causal evidence",
+  "estimated_usd_api_cost": 0,
+  "experiment": "Unfire synthetic approval gates, scripted pilot",
+  "llm_calls": 0,
+  "llm_kind": "scripted",
+  "per_seed": [
+    {
+      "arm": "ungated",
+      "executed": 100,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 82,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 82,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 11,
+      "unsafe_action_rate": 0.18,
+      "unsafe_executed": 18
+    },
+    {
+      "arm": "static",
+      "executed": 62,
+      "false_denial_count": 24,
+      "false_denial_rate": 0.2927,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 82,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 58,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 0.7544,
+        "urgent": 0.6
+      },
+      "safe_task_completion": 0.7073,
+      "seed": 11,
+      "unsafe_action_rate": 0.0645,
+      "unsafe_executed": 4
+    },
+    {
+      "arm": "capacity_review",
+      "executed": 82,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 82,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 82,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 11,
+      "unsafe_action_rate": 0.0,
+      "unsafe_executed": 0
+    },
+    {
+      "arm": "ungated",
+      "executed": 100,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 79,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 79,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 29,
+      "unsafe_action_rate": 0.21,
+      "unsafe_executed": 21
+    },
+    {
+      "arm": "static",
+      "executed": 57,
+      "false_denial_count": 28,
+      "false_denial_rate": 0.3544,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 79,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 51,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 0.6111,
+        "urgent": 0.72
+      },
+      "safe_task_completion": 0.6456,
+      "seed": 29,
+      "unsafe_action_rate": 0.1053,
+      "unsafe_executed": 6
+    },
+    {
+      "arm": "capacity_review",
+      "executed": 79,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 79,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 79,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 29,
+      "unsafe_action_rate": 0.0,
+      "unsafe_executed": 0
+    },
+    {
+      "arm": "ungated",
+      "executed": 100,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 80,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 80,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 47,
+      "unsafe_action_rate": 0.2,
+      "unsafe_executed": 20
+    },
+    {
+      "arm": "static",
+      "executed": 63,
+      "false_denial_count": 22,
+      "false_denial_rate": 0.275,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 80,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 58,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 0.7292,
+        "urgent": 0.7188
+      },
+      "safe_task_completion": 0.725,
+      "seed": 47,
+      "unsafe_action_rate": 0.0794,
+      "unsafe_executed": 5
+    },
+    {
+      "arm": "capacity_review",
+      "executed": 80,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 80,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 80,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 47,
+      "unsafe_action_rate": 0.0,
+      "unsafe_executed": 0
+    },
+    {
+      "arm": "ungated",
+      "executed": 100,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 88,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 88,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 83,
+      "unsafe_action_rate": 0.12,
+      "unsafe_executed": 12
+    },
+    {
+      "arm": "static",
+      "executed": 65,
+      "false_denial_count": 27,
+      "false_denial_rate": 0.3068,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 88,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 61,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 0.6613,
+        "urgent": 0.7692
+      },
+      "safe_task_completion": 0.6932,
+      "seed": 83,
+      "unsafe_action_rate": 0.0615,
+      "unsafe_executed": 4
+    },
+    {
+      "arm": "capacity_review",
+      "executed": 88,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 88,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 88,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 83,
+      "unsafe_action_rate": 0.0,
+      "unsafe_executed": 0
+    },
+    {
+      "arm": "ungated",
+      "executed": 100,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 76,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 76,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 101,
+      "unsafe_action_rate": 0.24,
+      "unsafe_executed": 24
+    },
+    {
+      "arm": "static",
+      "executed": 59,
+      "false_denial_count": 26,
+      "false_denial_rate": 0.3421,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 76,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 50,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 0.7021,
+        "urgent": 0.5862
+      },
+      "safe_task_completion": 0.6579,
+      "seed": 101,
+      "unsafe_action_rate": 0.1525,
+      "unsafe_executed": 9
+    },
+    {
+      "arm": "capacity_review",
+      "executed": 76,
+      "false_denial_count": 0,
+      "false_denial_rate": 0.0,
+      "mean_executed_latency_steps": 0,
+      "oracle_safe": 76,
+      "requests": 100,
+      "review_expirations": 0,
+      "safe_completed": 76,
+      "safe_completion_by_synthetic_priority": {
+        "standard": 1.0,
+        "urgent": 1.0
+      },
+      "safe_task_completion": 1.0,
+      "seed": 101,
+      "unsafe_action_rate": 0.0,
+      "unsafe_executed": 0
+    }
+  ],
+  "requests_per_seed": 100,
+  "reviewer_capacity_per_step": 8,
+  "seeds": [
+    11,
+    29,
+    47,
+    83,
+    101
+  ],
+  "socioverse_native_integration": false
+}

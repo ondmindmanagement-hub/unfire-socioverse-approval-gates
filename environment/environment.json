@@ -1,0 +1,23 @@
+{
+  "study_id": "unfire_approval_gates",
+  "layers": [
+    {
+      "name": "request_queue",
+      "modality": "physical",
+      "scope": "macro",
+      "dynamics": "endogenous",
+      "source": null,
+      "schema_ref": null,
+      "description": "synthetic action queue and review decisions"
+    }
+  ],
+  "scheduled_events": [],
+  "information_program": {
+    "broadcasts": []
+  },
+  "provider_ref": "unfire_approval.env",
+  "provider_args": {
+    "n_agents": 100,
+    "n_steps": 12
+  }
+}
